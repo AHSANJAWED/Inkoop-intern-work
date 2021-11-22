@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+
+    display: flex;
+
+}
+
+
+.nav-list{
+
+    width: 60%;
+    background-color:white;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-list li{
+
+    list-style: none;
+    padding: 23px;
+
+    
+} 
+
+.nav-list li a{
+
+    text-decoration: none;
+    color: black;
+    
+} 
+
+.left-nav a{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
+.right-nav{
+
+
+    width: 20%;
+    background-color:white;
+    text-align: right;
+    margin-right: 4%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.left-nav{
+
+    width: 20%;
+    background-color:white;
+   
+    margin-left: 4%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search{
+   border-radius: 11px;
+   width: 11vw;
+   background-color:rgb(247, 237, 237);
+   
+    
+}
+
+
+.big-words{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 4%;
+font-size: xxx-large;
+font-weight: bold;
+
+}
+
+.small-words{
+
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 2%;
+color: grey;
+
+}
+
+
+.button-start{
+    
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 2%;
+
+}
+
+.button-start button{
+
+    background-color:darkslateblue;
+    color: white;
+    width: 8vw;
+height: 4vh;
+}
+
+.overlap-contain{
+
+    display: flex;
+    justify-content: center;
+align-items: center;
+margin-top: 4%;
+margin-left: 4%;
+margin-right: 4%;
+
+}
+
+
+.words{
+
+    border: 2px solid whitesmoke;
+    width: 27vw;
+    z-index: 2;
+    background-color: white;
+    border-radius: 11px;
+    
+   
+
+}
+
+.c1{
+
+    color:darkslateblue ;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+.c2{
+    color: black;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.img1{
+    z-index: -1;
+    width: 26vw;
+    
+}
+
+
+.edit{
+    border-radius: 11px;
+}
+
+
+.social-media li a img{
+
+    width: 1vw;
+    
+
+}
+
+.social-media{
+   list-style: none;
+    padding: 9px;
+}
+
+.aj{
+    border-radius: 147px;
+    padding: 4%;
+}
+
+
+
+
+
+.speech{
+
+    background-color:darkslateblue ;
+    border-radius: 44px;
+   
+}
+
+
+
+
+.last-box{
+
+    display: flex;
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.temp1{
+
+    width: 10%;
+
+}
+
+.temp2{
+    
+    width: 10%;
+}
+
+
+.em{
+
+    margin-top: 4%;
+}
+
